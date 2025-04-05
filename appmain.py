@@ -17,7 +17,7 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 
 # RDS Credentials
-DB_HOST = "mydatas.cz86suuek39d.ap-south-1.rds.amazonaws.com"
+DB_HOST = "mydatas.cz86suuek39dapps.ap-south-1.rds.amazonaws.com"
 DB_NAME = "final_data"
 DB_USER = "pgadmin"
 DB_PASSWORD = "Pgadmin123"
